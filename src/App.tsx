@@ -1,5 +1,3 @@
-import { useState } from 'react'
-
 
 import Header from './components/Header'
 import GameBoard from './pages/GameBoard'
@@ -13,7 +11,7 @@ function App() {
 
   return (
     <>
-    
+
     <Header/>
     <GameBoard/>
     <Footer/>
